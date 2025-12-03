@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+positions.json
+signals_log.json
