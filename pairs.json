@@ -1,0 +1,12 @@
+{
+  "NOTUSDT": {"pair2": "DOGSUSDT", "coef": 14, "open": 5, "close": 1.5},
+  "XRPUSDT": {"pair2": "XLMUSDT", "coef": 7.5, "open": 7, "close": 1.5},
+  "ONGUSDT": {"pair2": "ONTUSDT", "coef": 1.2, "open": 8, "close": 1.5},
+  "SANDUSDT": {"pair2": "MANAUSDT", "coef": 1.1, "open": 4, "close": 1.5},
+  "NEOUSDT": {"pair2": "GASUSDT", "coef": 2, "open": 6, "close": 1.5},
+  "ADAUSDT": {"pair2": "ARBUSDT", "coef": 2, "open": 25, "close": 1.5},
+  "KSMUSDT": {"pair2": "DOTUSDT", "coef": 4, "open": 25, "close": 1.5},
+  "LINKUSDT": {"pair2": "BANDUSDT", "coef": 33, "open": 4, "close": 1.5},
+  "ETHUSDT": {"pair2": "ETCUSDT", "coef": 216, "open": 25, "close": 1.5},
+  "UNIUSDT": {"pair2": "SUSHIUSDT", "coef": 12, "open": 25, "close": 1.5}
+}
